@@ -6,7 +6,7 @@ This dataset have multiple classes such as archery, baseball, basketball, bmx et
 
 The videos looks like:
 <video width="320" height="240" controls>
-  <source src="Videos\archery.mp4" type="mp4">
+  <source src="Videos\archery.mp4" type="video/mp4">
 </video>
 --
 <video width="320" height="240" controls>
