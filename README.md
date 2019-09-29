@@ -8,6 +8,10 @@ The videos looks like:
 <video width="320" height="240" controls>
   <source src="Videos\archery.mp4" type="video/mp4">
 </video>
+
+<video width="320" height="200" controls preload> 
+    <source src="Videos\archery.mp4"></source> 
+</video>
 --
 <video width="320" height="240" controls>
   <source src="Videos\baseball.mp4" type="video/mp4">
