@@ -12,6 +12,7 @@ The videos looks like:
     <source src="https://www.youtube.com/watch?v=xdIjYBtnvZU.mp4" type="video/mp4">
   </video>
 </figure>
+<!-- blank line -->
 
 Videos\archery
 --
