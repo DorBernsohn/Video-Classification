@@ -12,25 +12,19 @@ The videos looks like:
     <source src="Videos\archery.mp4" type="video/mp4">
   </video>
 </figure>
-<!-- blank line -->
 --
-<!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="Videos\poster_baseball.jpg">
     <source src="Videos\baseball.mp4" type="video/mp4">
   </video>
 </figure>
-<!-- blank line -->
 --
-<!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="Videos\poster_basketball.jpg">
     <source src="Videos\basketball.mp4" type="video/mp4">
   </video>
 </figure>
-<!-- blank line -->
 --
-<!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="Videos\poster_bmx.jpg">
     <source src="Videos\bmx.mp4" type="video/mp4">
