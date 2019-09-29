@@ -5,6 +5,13 @@ In this project i tring to classify sport videos. The dataset is SVW (Sport Vide
 This dataset have multiple classes such as archery, baseball, basketball, bmx etc..
 
 The videos looks like:
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=xdIjYBtnvZU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
 
 <!-- blank line -->
 <figure class="video_container">
