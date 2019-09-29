@@ -8,8 +8,7 @@ The videos looks like:
 
 [![Watch the video](https://i.imgur.com/VwJYl8n.jpg?1)](https://www.youtube.com/watch?v=pTWwxk06eu4)
 
-[![Watch the video](https://i.imgur.com/0bU5ZuC.mp4)](https://www.youtube.com/watch?v=i-0kJOPzIfE)
+[![Watch the video](https://i.imgur.com/4Er9Jbg.jpg)](https://www.youtube.com/watch?v=i-0kJOPzIfE)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/Uewru08.jpg)](https://www.youtube.com/watch?v=li7E48NmPwA)
+[![Watch the video](https://i.imgur.com/AhhgMKh.jpg)](https://www.youtube.com/watch?v=K_JtOiXcuGA)
