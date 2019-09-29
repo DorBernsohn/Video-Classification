@@ -5,8 +5,8 @@ In this project i tring to classify sport videos. The dataset is SVW (Sport Vide
 This dataset have multiple classes such as archery, baseball, basketball, bmx etc..
 
 The videos looks like:
-<video width="320" height="240" controls>
-  <source src="archery.mp4" type="mp4">
+<video width="320" height="240" controls preload>
+  <source src="archery.mp4">
 </video>
 --
 <video width="320" height="240" controls>
