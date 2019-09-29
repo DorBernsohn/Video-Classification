@@ -6,24 +6,34 @@ This dataset have multiple classes such as archery, baseball, basketball, bmx et
 
 The videos looks like:
 
+<!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
     <source src="Videos\archery.mp4" type="video/mp4">
   </video>
 </figure>
-
-<video width="320" height="240" controls>
-  <source src="Videos\archery.mp4" type="video/mp4">
-</video>
+<!-- blank line -->
 --
-<video width="320" height="240" controls>
-  <source src="Videos\baseball.mp4" type="video/mp4">
-</video>
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="Videos\baseball.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line -->
 --
-<video width="320" height="240" controls>
-  <source src="Videos\basketball.mp4" type="video/mp4">
-</video>
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="Videos\basketball.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line -->
 --
-<video width="320" height="240" controls>
-  <source src="Videos\bmx.mp4" type="video/mp4">
-</video>
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="Videos\bmx.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line -->
