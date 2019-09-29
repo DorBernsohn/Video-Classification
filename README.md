@@ -5,10 +5,10 @@ In this project i tring to classify sport videos. The dataset is SVW (Sport Vide
 This dataset have multiple classes such as archery, baseball, basketball, bmx etc..
 
 The videos looks like:
-![](archery.mov)
+![](Videos/archery.mp4)
 --
-![](baseball.mov)
+![](Videos/baseball.mp4)
 --
-![](basketball.mov)
+![](Videos/basketball.mp4)
 --
-![](bmx.mov)
+![](Videos/bmx.mp4)
