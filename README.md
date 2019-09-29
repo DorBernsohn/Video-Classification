@@ -10,7 +10,7 @@ The videos looks like:
 </video>
 
 <video width="320" height="200" controls preload> 
-    <source src="Videos\archery.mp4"></source> 
+    <source src="archery.mp4"></source> 
 </video>
 --
 <video width="320" height="240" controls>
