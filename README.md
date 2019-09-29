@@ -6,7 +6,7 @@ This dataset have multiple classes such as archery, baseball, basketball, bmx et
 
 The videos looks like:
 
-[![Watch the video](https://images.ctfassets.net/iugkuus37ftr/2ATMArFIZ2YoEkGueI0CgS/e912d27853c789df7e8c924e3e7f7068/apprenticeships-april-2015-2.jpg)](https://www.youtube.com/watch?v=pTWwxk06eu4)
+[![Watch the video](Videos/archery_poster.jpg)](https://www.youtube.com/watch?v=pTWwxk06eu4)
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
