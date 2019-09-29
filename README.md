@@ -8,6 +8,7 @@ The videos looks like:
 
 ![](Videos\archery.mp4)
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 <!-- blank line -->
 <figure class="video_container">
