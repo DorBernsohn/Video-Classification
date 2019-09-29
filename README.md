@@ -6,6 +6,10 @@ This dataset have multiple classes such as archery, baseball, basketball, bmx et
 
 The videos looks like:
 
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=ds0cmAV-Yek" type="video/mp4">
+</video>
+
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="Videos\poster_archery.jpg">
