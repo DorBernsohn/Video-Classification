@@ -9,12 +9,12 @@ The videos looks like:
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="Videos\poster_archery.jpg">
-    <source src="https://www.youtube.com/watch?v=xdIjYBtnvZU.mp4" type="video/mp4">
+    <source src="https://www.youtube.com/watch?v=xdIjYBtnvZU" type="video/mp4">
   </video>
 </figure>
 <!-- blank line -->
 
-Videos\archery
+Videos\archery.mp4
 --
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="Videos\poster_baseball.jpg">
