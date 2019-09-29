@@ -10,8 +10,6 @@ The videos looks like:
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="Videos\poster_archery.jpg">
     <source src="Videos\archery.mp4" type="video/mp4">
-    <source src="Videos\archery.ogg" type="video/ogg">
-    <source src="Videos\archery.webm" type="video/webm">
   </video>
 </figure>
 --
