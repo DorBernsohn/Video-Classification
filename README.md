@@ -12,7 +12,7 @@ The videos looks like:
   <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
-
+'''
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="Videos\poster_archery.jpg">
@@ -38,3 +38,4 @@ The videos looks like:
   </video>
 </figure>
 <!-- blank line -->
+'''
