@@ -1,11 +1,11 @@
 # Video-Classification on Sports Videos
 
-In this project im tring to classify sport videos. 
+In this project i'm trying to classify sport videos. 
 The main approach is here is to sample n frames from each video and classify them. 
 
 ### Advantages:
 - Less process time
-- Less storage capacity
+- Less storage needed
 
 ### Disadvantages:
 - Less accurate
