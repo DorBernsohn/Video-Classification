@@ -6,6 +6,7 @@ The main approach is here is to sample n frames from each video and classify the
 Advantages:
 - Less process time
 - Less storage capacity
+
 Disadvantages:
 - Less accurate
 
