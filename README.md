@@ -3,6 +3,7 @@
 
 In this project im tring to classify sport videos. 
 The main approach is here is to sample n frames from each video and classify them. 
+
 Advantages:
 - Less process time
 - Less storage capacity
